@@ -1,0 +1,12 @@
+
+# These packages installed in server for authentication and profile 
+
+ npm install express mongooose dotenv cors cookie-parser bcrypt jsonwebtoken cloudinary express-fileupload googleapis node-fetch nodemailer
+
+# dev dependencies
+npm install -d nodemon
+
+
+// CLIENT DEPENDENCIES
+
+npm install axios react-router-dom redux react-redux
